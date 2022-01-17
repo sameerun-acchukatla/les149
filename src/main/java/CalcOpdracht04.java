@@ -18,8 +18,6 @@ public class CalcOpdracht04 {
             return Math.abs(n1) * Math.abs(n2);
 
         }
-        public static double sqrt ( double n){
-            return Math.sqrt(n);
-        }
+        
 
 }
